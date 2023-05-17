@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Remera",
+      "description": "remera de algodon",
+      "price": "$20000",
+      "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/590/037/products/remera-negra11-0d1b10bfd65079e60e16679152177491-240-0.jpg",
+      "stock": 15
+    },
+  
+    {
+      "id": 2,
+      "title": "Camisa",
+      "description": "camisa de algodon",
+      "price": "$15000",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_757456-MLA43784475937_102020-F.webp",
+      "stock": 10
+    },
+    
+    {
+      "id": 3,
+      "title": "Pantalon",
+      "description": "pantalon de algodon",
+      "price": "$12500",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_757456-MLA43784475937_102020-O.jpg",
+      "stock": 100
+    },
+    {
+      "id": 4,
+      "title": "Zapatillas",
+      "description": "zapatillas de tela",
+      "price": "$25000",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_757456-MLA43784475937_102020-F.webp"
+    },
+    {
+      "id": 5,
+      "title": "gorra",
+      "description": "gorra de tela",
+      "price": "$5000",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_757456-MLA43784475937_102020-F.webp"
+    }
+  
+  
+  ]
